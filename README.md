@@ -1,4 +1,4 @@
-### Hi there 👋
+### Wassup 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waslost0" alt="waslost0" /></p>
 
