@@ -19,4 +19,5 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           LOCALE: "en"
           SHOW_LANGUAGE: "True"
+          SHOW_PROFILE_VIEWS: "False"
           
