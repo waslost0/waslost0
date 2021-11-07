@@ -18,3 +18,5 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
           LOCALE: "en"
+          SHOW_LANGUAGE: "True"
+          
