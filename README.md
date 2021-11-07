@@ -6,3 +6,7 @@
 
 <p><img align="" src="https://github-readme-stats.vercel.app/api?username=waslost0&show_icons=true&hide=contribs" alt="waslost0" /></p>
 
+---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
