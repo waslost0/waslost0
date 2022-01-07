@@ -79,6 +79,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/waslost0/waslost0/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/01/2022
+ Last Updated on 07/01/2022
 <!--END_SECTION:waka-->
 
