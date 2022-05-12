@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waslost0" alt="waslost0" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -48,14 +48,18 @@ Sunday       69 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Dart                     4 hrs 14 mins       █████████████████████████   100.0% 
+Dart                     4 hrs 28 mins       █████████████████████████   100.0% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+ObjectiveC               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  4 hrs 14 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 14 mins       ███████████████████████░░   94.77% 
+Android Studio           14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.23%
 
 💻 Operating System: 
-Windows                  4 hrs 14 mins       █████████████████████████   100.0%
+Windows                  4 hrs 14 mins       ███████████████████████░░   94.77% 
+Mac                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.23%
 
 ```
 
@@ -76,6 +80,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/waslost0/waslost0/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/05/2022 01:07:25 UTC
+ Last Updated on 12/05/2022 01:05:05 UTC
 <!--END_SECTION:waka-->
 
