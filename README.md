@@ -48,17 +48,13 @@ Sunday       69 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Dart                     13 hrs 30 mins      ███████████████████████░░   95.0% 
-YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64% 
-Groovy                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.37% 
-XML                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79% 
-ObjectiveC               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           14 hrs 13 mins      █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      14 hrs 13 mins      █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -79,6 +75,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/waslost0/waslost0/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/07/2022 01:12:04 UTC
+ Last Updated on 23/07/2022 01:10:58 UTC
 <!--END_SECTION:waka-->
 
