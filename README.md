@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waslost0" alt="waslost0" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C452%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C459%20hrs%209%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -48,17 +48,17 @@ Sunday       64 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Dart                     33 hrs 23 mins      ████████████████████████░   98.38% 
-YAML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77% 
-Xcode project            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45% 
+Dart                     33 hrs 45 mins      ████████████████████████░   98.85% 
+YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39% 
+Xcode project            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38% 
 Kotlin                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15% 
 XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 
 🔥 Editors: 
-Android Studio           33 hrs 56 mins      █████████████████████████   100.0%
+Android Studio           34 hrs 8 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      33 hrs 56 mins      █████████████████████████   100.0%
+Mac                      34 hrs 8 mins       █████████████████████████   100.0%
 
 ```
 
@@ -79,6 +79,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/waslost0/waslost0/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/08/2022 01:23:01 UTC
+ Last Updated on 01/09/2022 01:11:51 UTC
 <!--END_SECTION:waka-->
 
