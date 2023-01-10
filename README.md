@@ -46,13 +46,17 @@
 
 <table>
 <tr><th colspan="3"><br>💬 <i>Programming Languages</i></th></tr> 
-No Activity Tracked This Week
+ <tr><td>Dart</td><td>6 hrs 27 mins</td><td>████████████████████████░ 98.52%</td></tr> 
+ <tr><td>YAML</td><td>4 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 1.07%</td></tr> 
+ <tr><td>Groovy</td><td>1 min</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.28%</td></tr> 
+ <tr><td>Properties</td><td>0 secs</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.07%</td></tr> 
+ <tr><td>Gradle</td><td>0 secs</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.04%</td></tr>
 
 <tr><th colspan="3"><br>🔥 <i>Editors</i></th></tr> 
-No Activity Tracked This Week
+ <tr><td>Android Studio</td><td>6 hrs 33 mins</td><td>█████████████████████████ 100.0%</td></tr>
 
 <tr><th colspan="3"><br>💻 <i>Operating System</i></th></tr> 
-No Activity Tracked This Week
+ <tr><td>Windows</td><td>6 hrs 33 mins</td><td>█████████████████████████ 100.0%</td></tr>
 </table>
 
 **I Mostly Code in Python** 
@@ -71,6 +75,6 @@ No Activity Tracked This Week
 ![Chart not found](https://raw.githubusercontent.com/waslost0/waslost0/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/01/2023 01:00:30 UTC
+ Last Updated on 10/01/2023 01:02:55 UTC
 <!--END_SECTION:waka-->
 
