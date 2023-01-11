@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waslost0" alt="waslost0" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C987%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C994%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -46,17 +46,17 @@
 
 <table>
 <tr><th colspan="3"><br>💬 <i>Programming Languages</i></th></tr> 
- <tr><td>Dart</td><td>6 hrs 27 mins</td><td>████████████████████████░ 98.52%</td></tr> 
- <tr><td>YAML</td><td>4 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 1.07%</td></tr> 
- <tr><td>Groovy</td><td>1 min</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.28%</td></tr> 
- <tr><td>Properties</td><td>0 secs</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.07%</td></tr> 
+ <tr><td>Dart</td><td>12 hrs 6 mins</td><td>████████████████████████░ 98.22%</td></tr> 
+ <tr><td>YAML</td><td>11 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 1.49%</td></tr> 
+ <tr><td>Groovy</td><td>1 min</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.15%</td></tr> 
+ <tr><td>Text</td><td>0 secs</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.05%</td></tr> 
  <tr><td>Gradle</td><td>0 secs</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.04%</td></tr>
 
 <tr><th colspan="3"><br>🔥 <i>Editors</i></th></tr> 
- <tr><td>Android Studio</td><td>6 hrs 33 mins</td><td>█████████████████████████ 100.0%</td></tr>
+ <tr><td>Android Studio</td><td>12 hrs 20 mins</td><td>█████████████████████████ 100.0%</td></tr>
 
 <tr><th colspan="3"><br>💻 <i>Operating System</i></th></tr> 
- <tr><td>Windows</td><td>6 hrs 33 mins</td><td>█████████████████████████ 100.0%</td></tr>
+ <tr><td>Windows</td><td>12 hrs 20 mins</td><td>█████████████████████████ 100.0%</td></tr>
 </table>
 
 **I Mostly Code in Python** 
@@ -75,6 +75,6 @@
 ![Chart not found](https://raw.githubusercontent.com/waslost0/waslost0/master/charts/bar_graph.png) 
 
 
- Last Updated on 10/01/2023 01:02:55 UTC
+ Last Updated on 11/01/2023 01:00:35 UTC
 <!--END_SECTION:waka-->
 
