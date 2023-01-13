@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waslost0" alt="waslost0" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C999%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C005%20hrs%2036%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -11,7 +11,7 @@
 
 > 🏆 7 Contributions in the Year 2023
  > 
-> 📦 252.7 kB Used in GitHub's Storage 
+> 📦 252.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -46,18 +46,18 @@
 
 <table>
 <tr><th colspan="3"><br>💬 <i>Programming Languages</i></th></tr> 
- <tr><td>Dart</td><td>17 hrs 39 mins</td><td>████████████████████████░ 97.79%</td></tr> 
- <tr><td>YAML</td><td>14 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 1.32%</td></tr> 
- <tr><td>XML</td><td>6 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.63%</td></tr> 
- <tr><td>Groovy</td><td>1 min</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.1%</td></tr> 
- <tr><td>Text</td><td>0 secs</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.07%</td></tr>
+ <tr><td>Dart</td><td>23 hrs 53 mins</td><td>████████████████████████░ 97.79%</td></tr> 
+ <tr><td>YAML</td><td>21 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 1.46%</td></tr> 
+ <tr><td>XML</td><td>7 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.48%</td></tr> 
+ <tr><td>Text</td><td>1 min</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.11%</td></tr> 
+ <tr><td>Groovy</td><td>1 min</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.08%</td></tr>
 
 <tr><th colspan="3"><br>🔥 <i>Editors</i></th></tr> 
- <tr><td>Android Studio</td><td>18 hrs 3 mins</td><td>█████████████████████████ 100.0%</td></tr>
+ <tr><td>Android Studio</td><td>24 hrs 25 mins</td><td>█████████████████████████ 100.0%</td></tr>
 
 <tr><th colspan="3"><br>💻 <i>Operating System</i></th></tr> 
- <tr><td>Windows</td><td>12 hrs 20 mins</td><td>█████████████████░░░░░░░░ 68.29%</td></tr> 
- <tr><td>Mac</td><td>5 hrs 43 mins</td><td>████████░░░░░░░░░░░░░░░░░ 31.71%</td></tr>
+ <tr><td>Windows</td><td>12 hrs 20 mins</td><td>████████████░░░░░░░░░░░░░ 50.5%</td></tr> 
+ <tr><td>Mac</td><td>12 hrs 5 mins</td><td>████████████░░░░░░░░░░░░░ 49.5%</td></tr>
 </table>
 
 **I Mostly Code in Python** 
@@ -76,6 +76,6 @@
 ![Chart not found](https://raw.githubusercontent.com/waslost0/waslost0/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/01/2023 01:02:32 UTC
+ Last Updated on 13/01/2023 00:59:52 UTC
 <!--END_SECTION:waka-->
 
