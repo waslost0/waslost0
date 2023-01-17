@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waslost0" alt="waslost0" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C017%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C017%20hrs%2028%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -46,18 +46,18 @@
 
 <table>
 <tr><th colspan="3"><br>💬 <i>Programming Languages</i></th></tr> 
- <tr><td>Dart</td><td>28 hrs 55 mins</td><td>████████████████████████░ 96.62%</td></tr> 
- <tr><td>YAML</td><td>31 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 1.73%</td></tr> 
- <tr><td>Text</td><td>19 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 1.1%</td></tr> 
- <tr><td>XML</td><td>7 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.39%</td></tr> 
- <tr><td>Groovy</td><td>1 min</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.06%</td></tr>
+ <tr><td>Dart</td><td>22 hrs 28 mins</td><td>████████████████████████░ 96.09%</td></tr> 
+ <tr><td>YAML</td><td>26 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 1.92%</td></tr> 
+ <tr><td>Text</td><td>19 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 1.4%</td></tr> 
+ <tr><td>XML</td><td>7 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.5%</td></tr> 
+ <tr><td>ObjectiveC</td><td>0 secs</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.02%</td></tr>
 
 <tr><th colspan="3"><br>🔥 <i>Editors</i></th></tr> 
- <tr><td>Android Studio</td><td>29 hrs 56 mins</td><td>█████████████████████████ 100.0%</td></tr>
+ <tr><td>Android Studio</td><td>23 hrs 22 mins</td><td>█████████████████████████ 100.0%</td></tr>
 
 <tr><th colspan="3"><br>💻 <i>Operating System</i></th></tr> 
- <tr><td>Mac</td><td>17 hrs 24 mins</td><td>██████████████░░░░░░░░░░░ 58.15%</td></tr> 
- <tr><td>Windows</td><td>12 hrs 31 mins</td><td>██████████░░░░░░░░░░░░░░░ 41.85%</td></tr>
+ <tr><td>Mac</td><td>17 hrs 24 mins</td><td>██████████████████░░░░░░░ 74.45%</td></tr> 
+ <tr><td>Windows</td><td>5 hrs 58 mins</td><td>██████░░░░░░░░░░░░░░░░░░░ 25.55%</td></tr>
 </table>
 
 **I Mostly Code in Python** 
@@ -76,6 +76,6 @@
 ![Chart not found](https://raw.githubusercontent.com/waslost0/waslost0/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/01/2023 00:59:45 UTC
+ Last Updated on 17/01/2023 00:58:12 UTC
 <!--END_SECTION:waka-->
 
