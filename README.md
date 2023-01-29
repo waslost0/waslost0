@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waslost0" alt="waslost0" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C065%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C071%20hrs%2041%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -46,18 +46,17 @@
 
 <table>
 <tr><th colspan="3"><br>💬 <i>Programming Languages</i></th></tr> 
- <tr><td>Dart</td><td>32 hrs 49 mins</td><td>████████████████████████░ 96.39%</td></tr> 
- <tr><td>YAML</td><td>50 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 2.48%</td></tr> 
- <tr><td>Markdown</td><td>8 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.43%</td></tr> 
- <tr><td>Text</td><td>8 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.42%</td></tr> 
- <tr><td>Groovy</td><td>2 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.12%</td></tr>
+ <tr><td>Dart</td><td>34 hrs 54 mins</td><td>████████████████████████░ 95.93%</td></tr> 
+ <tr><td>YAML</td><td>1 hr 6 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 3.04%</td></tr> 
+ <tr><td>Text</td><td>8 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.4%</td></tr> 
+ <tr><td>Markdown</td><td>8 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.38%</td></tr> 
+ <tr><td>Groovy</td><td>2 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.11%</td></tr>
 
 <tr><th colspan="3"><br>🔥 <i>Editors</i></th></tr> 
- <tr><td>Android Studio</td><td>34 hrs 3 mins</td><td>█████████████████████████ 100.0%</td></tr>
+ <tr><td>Android Studio</td><td>36 hrs 23 mins</td><td>█████████████████████████ 100.0%</td></tr>
 
 <tr><th colspan="3"><br>💻 <i>Operating System</i></th></tr> 
- <tr><td>Windows</td><td>29 hrs 6 mins</td><td>█████████████████████░░░░ 85.45%</td></tr> 
- <tr><td>Mac</td><td>4 hrs 57 mins</td><td>███░░░░░░░░░░░░░░░░░░░░░░ 14.55%</td></tr>
+ <tr><td>Windows</td><td>36 hrs 23 mins</td><td>█████████████████████████ 100.0%</td></tr>
 </table>
 
 **I Mostly Code in Python** 
@@ -76,6 +75,6 @@
 ![Chart not found](https://raw.githubusercontent.com/waslost0/waslost0/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/01/2023 01:02:14 UTC
+ Last Updated on 29/01/2023 01:06:08 UTC
 <!--END_SECTION:waka-->
 
