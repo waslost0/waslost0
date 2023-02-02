@@ -1,8 +1,8 @@
 ### Wassup 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waslost0" alt="waslost0" /></p>
-
 [![Codewarrior Badge](https://www.codewars.com/users/waslost/badges/small)](https://www.codewars.com/users/waslost)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=waslost0" alt="waslost0" /></p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C087%20hrs%2016%20mins-blue)
