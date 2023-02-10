@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waslost0" alt="waslost0" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C121%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C130%20hrs%2048%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -13,7 +13,7 @@
 
 > 🏆 36 Contributions in the Year 2023
  > 
-> 📦 255.6 kB Used in GitHub's Storage 
+> 📦 255.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -48,19 +48,19 @@
 
 <table>
 <tr><th colspan="3"><br>💬 <i>Programming Languages</i></th></tr> 
- <tr><td>Dart</td><td>33 hrs 20 mins</td><td>███████████████████████░░ 91.65%</td></tr> 
- <tr><td>YAML</td><td>2 hrs 4 mins</td><td>█░░░░░░░░░░░░░░░░░░░░░░░░ 5.72%</td></tr> 
+ <tr><td>Dart</td><td>34 hrs 7 mins</td><td>███████████████████████░░ 92.21%</td></tr> 
+ <tr><td>YAML</td><td>1 hr 49 mins</td><td>█░░░░░░░░░░░░░░░░░░░░░░░░ 4.93%</td></tr> 
  <tr><td>XML</td><td>17 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.78%</td></tr> 
- <tr><td>Text</td><td>15 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.71%</td></tr> 
- <tr><td>Xcode project</td><td>8 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.41%</td></tr>
+ <tr><td>Text</td><td>15 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.68%</td></tr> 
+ <tr><td>Markdown</td><td>14 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.66%</td></tr>
 
 <tr><th colspan="3"><br>🔥 <i>Editors</i></th></tr> 
- <tr><td>Android Studio</td><td>36 hrs 21 mins</td><td>█████████████████████████ 99.96%</td></tr> 
+ <tr><td>Android Studio</td><td>36 hrs 59 mins</td><td>█████████████████████████ 99.96%</td></tr> 
  <tr><td>VS Code</td><td>0 secs</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.04%</td></tr>
 
 <tr><th colspan="3"><br>💻 <i>Operating System</i></th></tr> 
- <tr><td>Mac</td><td>32 hrs 44 mins</td><td>██████████████████████░░░ 89.99%</td></tr> 
- <tr><td>Windows</td><td>3 hrs 38 mins</td><td>██░░░░░░░░░░░░░░░░░░░░░░░ 10.01%</td></tr>
+ <tr><td>Mac</td><td>33 hrs 22 mins</td><td>██████████████████████░░░ 90.16%</td></tr> 
+ <tr><td>Windows</td><td>3 hrs 38 mins</td><td>██░░░░░░░░░░░░░░░░░░░░░░░ 9.84%</td></tr>
 </table>
 
 **I Mostly Code in Python** 
@@ -79,6 +79,6 @@
 ![Chart not found](https://raw.githubusercontent.com/waslost0/waslost0/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/02/2023 01:00:57 UTC
+ Last Updated on 10/02/2023 01:03:22 UTC
 <!--END_SECTION:waka-->
 
