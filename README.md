@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waslost0" alt="waslost0" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C184%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C190%20hrs%2056%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -79,6 +79,6 @@
 ![Chart not found](https://raw.githubusercontent.com/waslost0/waslost0/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/02/2023 01:03:16 UTC
+ Last Updated on 19/02/2023 01:01:51 UTC
 <!--END_SECTION:waka-->
 
