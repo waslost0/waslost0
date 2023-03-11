@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waslost0" alt="waslost0" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C278%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C284%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -21,48 +21,6 @@
  > 
 > 🔑 25 Private Repositories  
  > 
-`⌚︎ Time Zone: Europe/Moscow`
-
-**I'm an Early 🐤** 
-
-<table>
- <tr><td>🌞 Morning</td><td>31 commits</td><td>████░░░░░░░░░░░░░░░░░░░░░ 16.32%</td></tr>
- <tr><td>🌆 Daytime</td><td>83 commits</td><td>███████████░░░░░░░░░░░░░░ 43.68%</td></tr>
- <tr><td>🌃 Evening</td><td>73 commits</td><td>█████████░░░░░░░░░░░░░░░░ 38.42%</td></tr>
- <tr><td>🌙 Night</td><td>3 commits</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 01.58%</td></tr>
-</table>
-
-📅 **I'm Most Productive on Tuesday** 
-
-<table>
- <tr><td>Monday</td><td>17 commits</td><td>██░░░░░░░░░░░░░░░░░░░░░░░ 08.95%</td></tr>
- <tr><td>Tuesday</td><td>42 commits</td><td>█████░░░░░░░░░░░░░░░░░░░░ 22.11%</td></tr>
- <tr><td>Wednesday</td><td>30 commits</td><td>████░░░░░░░░░░░░░░░░░░░░░ 15.79%</td></tr>
- <tr><td>Thursday</td><td>29 commits</td><td>███░░░░░░░░░░░░░░░░░░░░░░ 15.26%</td></tr>
- <tr><td>Friday</td><td>14 commits</td><td>█░░░░░░░░░░░░░░░░░░░░░░░░ 07.37%</td></tr>
- <tr><td>Saturday</td><td>20 commits</td><td>██░░░░░░░░░░░░░░░░░░░░░░░ 10.53%</td></tr>
- <tr><td>Sunday</td><td>38 commits</td><td>█████░░░░░░░░░░░░░░░░░░░░ 20.00%</td></tr>
-</table>
-
-📊 **This Week I Spent My Time On** 
-
-<table>
-<tr><th colspan="3"><br>💬 <i>Programming Languages</i></th></tr> 
- <tr><td>Dart</td><td>25 hrs 17 mins</td><td>████████████████████████░ 96.29%</td></tr>
- <tr><td>YAML</td><td>31 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 01.99%</td></tr>
- <tr><td>JSON</td><td>11 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 00.72%</td></tr>
- <tr><td>XML</td><td>6 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 00.40%</td></tr>
- <tr><td>Text</td><td>3 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 00.23%</td></tr>
-
-<tr><th colspan="3"><br>🔥 <i>Editors</i></th></tr> 
- <tr><td>Android Studio</td><td>26 hrs 13 mins</td><td>█████████████████████████ 99.88%</td></tr>
- <tr><td>VS Code</td><td>1 min</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 00.12%</td></tr>
-
-<tr><th colspan="3"><br>💻 <i>Operating System</i></th></tr> 
- <tr><td>Mac</td><td>21 hrs 46 mins</td><td>████████████████████░░░░░ 82.91%</td></tr>
- <tr><td>Windows</td><td>4 hrs 29 mins</td><td>████░░░░░░░░░░░░░░░░░░░░░ 17.09%</td></tr>
-</table>
-
 **I Mostly Code in Python** 
 
 <table>
@@ -79,6 +37,6 @@
 ![Chart not found](https://raw.githubusercontent.com/waslost0/waslost0/master/charts/bar_graph.png) 
 
 
- Last Updated on 10/03/2023 01:04:01 UTC
+ Last Updated on 11/03/2023 00:57:43 UTC
 <!--END_SECTION:waka-->
 
