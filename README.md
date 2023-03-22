@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waslost0" alt="waslost0" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C323%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C329%20hrs%2045%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -48,17 +48,17 @@
 
 <table>
 <tr><th colspan="3"><br>💬 <i>Programming Languages</i></th></tr> 
- <tr><td>Dart</td><td>26 hrs 45 mins</td><td>██████████████████████░░░ 87.62%</td></tr>
- <tr><td>YAML</td><td>1 hr 15 mins</td><td>█░░░░░░░░░░░░░░░░░░░░░░░░ 04.13%</td></tr>
- <tr><td>Kotlin</td><td>50 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 02.74%</td></tr>
- <tr><td>Swift</td><td>21 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 01.19%</td></tr>
- <tr><td>Java</td><td>18 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 01.01%</td></tr>
+ <tr><td>Dart</td><td>25 hrs 59 mins</td><td>█████████████████████░░░░ 85.36%</td></tr>
+ <tr><td>YAML</td><td>1 hr 24 mins</td><td>█░░░░░░░░░░░░░░░░░░░░░░░░ 04.62%</td></tr>
+ <tr><td>Kotlin</td><td>1 hr 14 mins</td><td>█░░░░░░░░░░░░░░░░░░░░░░░░ 04.07%</td></tr>
+ <tr><td>Java</td><td>33 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 01.85%</td></tr>
+ <tr><td>Swift</td><td>22 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 01.21%</td></tr>
 
 <tr><th colspan="3"><br>🔥 <i>Editors</i></th></tr> 
- <tr><td>Android Studio</td><td>30 hrs 32 mins</td><td>█████████████████████████ 100.00%</td></tr>
+ <tr><td>Android Studio</td><td>30 hrs 26 mins</td><td>█████████████████████████ 100.00%</td></tr>
 
 <tr><th colspan="3"><br>💻 <i>Operating System</i></th></tr> 
- <tr><td>Mac</td><td>30 hrs 32 mins</td><td>█████████████████████████ 100.00%</td></tr>
+ <tr><td>Mac</td><td>30 hrs 26 mins</td><td>█████████████████████████ 100.00%</td></tr>
 </table>
 
 **I Mostly Code in Python** 
@@ -77,6 +77,6 @@
 ![Chart not found](https://raw.githubusercontent.com/waslost0/waslost0/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/03/2023 00:58:35 UTC
+ Last Updated on 22/03/2023 00:56:07 UTC
 <!--END_SECTION:waka-->
 
