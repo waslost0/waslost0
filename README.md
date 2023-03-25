@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waslost0" alt="waslost0" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C341%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C347%20hrs%2056%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -48,17 +48,17 @@
 
 <table>
 <tr><th colspan="3"><br>💬 <i>Programming Languages</i></th></tr> 
- <tr><td>Dart</td><td>25 hrs 5 mins</td><td>█████████████████████░░░░ 83.71%</td></tr>
- <tr><td>Kotlin</td><td>1 hr 31 mins</td><td>█░░░░░░░░░░░░░░░░░░░░░░░░ 05.07%</td></tr>
- <tr><td>YAML</td><td>1 hr 12 mins</td><td>█░░░░░░░░░░░░░░░░░░░░░░░░ 04.05%</td></tr>
- <tr><td>Java</td><td>38 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 02.12%</td></tr>
- <tr><td>Swift</td><td>22 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 01.23%</td></tr>
+ <tr><td>Dart</td><td>26 hrs 21 mins</td><td>█████████████████████░░░░ 84.90%</td></tr>
+ <tr><td>Kotlin</td><td>1 hr 31 mins</td><td>█░░░░░░░░░░░░░░░░░░░░░░░░ 04.93%</td></tr>
+ <tr><td>YAML</td><td>50 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 02.70%</td></tr>
+ <tr><td>Java</td><td>46 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 02.51%</td></tr>
+ <tr><td>Swift</td><td>22 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 01.18%</td></tr>
 
 <tr><th colspan="3"><br>🔥 <i>Editors</i></th></tr> 
- <tr><td>Android Studio</td><td>29 hrs 58 mins</td><td>█████████████████████████ 100.00%</td></tr>
+ <tr><td>Android Studio</td><td>31 hrs 2 mins</td><td>█████████████████████████ 100.00%</td></tr>
 
 <tr><th colspan="3"><br>💻 <i>Operating System</i></th></tr> 
- <tr><td>Mac</td><td>29 hrs 58 mins</td><td>█████████████████████████ 100.00%</td></tr>
+ <tr><td>Mac</td><td>31 hrs 2 mins</td><td>█████████████████████████ 100.00%</td></tr>
 </table>
 
 **I Mostly Code in Python** 
@@ -77,6 +77,6 @@
 ![Chart not found](https://raw.githubusercontent.com/waslost0/waslost0/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/03/2023 00:59:04 UTC
+ Last Updated on 25/03/2023 00:58:25 UTC
 <!--END_SECTION:waka-->
 
