@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waslost0" alt="waslost0" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C415%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C422%20hrs%2012%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -48,17 +48,17 @@
 
 <table>
 <tr><th colspan="3"><br>💬 <i>Programming Languages</i></th></tr> 
- <tr><td>Dart</td><td>31 hrs 54 mins</td><td>█████████████████████████ 99.64%</td></tr>
- <tr><td>YAML</td><td>5 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 00.31%</td></tr>
+ <tr><td>Dart</td><td>31 hrs 59 mins</td><td>█████████████████████████ 99.64%</td></tr>
+ <tr><td>YAML</td><td>5 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 00.30%</td></tr>
  <tr><td>ObjectiveC</td><td>0 secs</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 00.04%</td></tr>
  <tr><td>Text</td><td>0 secs</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 00.01%</td></tr>
- <tr><td>Shell Script</td><td>0 secs</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 00.00%</td></tr>
+ <tr><td>Objective-C</td><td>0 secs</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 00.00%</td></tr>
 
 <tr><th colspan="3"><br>🔥 <i>Editors</i></th></tr> 
- <tr><td>Android Studio</td><td>32 hrs 1 min</td><td>█████████████████████████ 100.00%</td></tr>
+ <tr><td>Android Studio</td><td>32 hrs 6 mins</td><td>█████████████████████████ 100.00%</td></tr>
 
 <tr><th colspan="3"><br>💻 <i>Operating System</i></th></tr> 
- <tr><td>Mac</td><td>31 hrs 35 mins</td><td>████████████████████████░ 98.64%</td></tr>
+ <tr><td>Mac</td><td>31 hrs 40 mins</td><td>████████████████████████░ 98.64%</td></tr>
  <tr><td>Windows</td><td>26 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░ 01.36%</td></tr>
 </table>
 
@@ -78,6 +78,6 @@
 ![Chart not found](https://raw.githubusercontent.com/waslost0/waslost0/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/04/2023 00:55:47 UTC
+ Last Updated on 12/04/2023 00:58:05 UTC
 <!--END_SECTION:waka-->
 
