@@ -11,14 +11,15 @@
 
 **📊 Global GitHub data** 
 
-```text
 > 🏆 74 contributions in 2023
  > 
-📦 263.9 kB used in GitHub's storage 
-
-📜 51 Public Repositories 
-
-🔑 26 Private Repositories  
+> 📦 263.9 kB used in GitHub's storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 51 Public Repositories 
+ > 
+> 🔑 26 Private Repositories  
  > 
 `⌚︎ Time Zone: Europe/Moscow`
 
@@ -99,6 +100,6 @@
 ![Chart not found](https://raw.githubusercontent.com/waslost0/waslost0/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/05/2023 16:20:37 UTC
+ Last Updated on 16/05/2023 16:53:18 UTC
 <!--END_SECTION:waka-->
 
