@@ -9,7 +9,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 264.5 kB Used in GitHub's Storage 
  > 
 > 🏆 1 Contributions in the Year 2024
  > 
@@ -17,7 +17,7 @@
  > 
 > 📜 56 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 29 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -76,6 +76,6 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/01/2024 05:37:41 UTC
+ Last Updated on 22/01/2024 05:40:57 UTC
 <!--END_SECTION:waka-->
 
