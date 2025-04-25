@@ -20,7 +20,5 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           LOCALE: "en"
           SHOW_LANGUAGE: "True"
-          INPUT_COMMIT_BY_ME: "True"
           SHOW_PROFILE_VIEWS: "False"
-          INPUT_PUSH_BRANCH_NAME: "master"
           
