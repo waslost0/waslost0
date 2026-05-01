@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waslost0" alt="waslost0" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C534%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C546%20hrs%201%20min-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.57%20million%20lines%20of%20code-blue?style=flat)
 
@@ -48,15 +48,16 @@ Sunday                   154 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Other                    41 hrs 28 mins      █████████████████████░░░░   83.88 % 
-Dart                     7 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Other                    37 hrs 26 mins      ████████████████████░░░░░   81.37 % 
+Dart                     8 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+SQL                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-Chrome                   49 hrs 27 mins      █████████████████████████   100.00 % 
+Chrome                   46 hrs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      27 hrs 11 mins      ██████████████░░░░░░░░░░░   54.98 % 
-Windows                  22 hrs 15 mins      ███████████░░░░░░░░░░░░░░   45.02 % 
+Mac                      25 hrs 37 mins      ██████████████░░░░░░░░░░░   55.70 % 
+Windows                  20 hrs 22 mins      ███████████░░░░░░░░░░░░░░   44.30 % 
 ```
 
 **I Mostly Code in Python** 
@@ -72,6 +73,6 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/04/2026 02:27:24 UTC
+ Last Updated on 01/05/2026 02:32:05 UTC
 <!--END_SECTION:waka-->
 
