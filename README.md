@@ -5,6 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waslost0" alt="waslost0" /></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C230%20hrs%2049%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.58%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -19,6 +21,49 @@
  > 
 > 🔑 29 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+🌆 Daytime                377 commits         ██████████░░░░░░░░░░░░░░░   39.11 % 
+🌃 Evening                402 commits         ██████████░░░░░░░░░░░░░░░   41.70 % 
+🌙 Night                  66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Tuesday                  202 commits         █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
+Wednesday                133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Thursday                 108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Friday                   125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Saturday                 119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Sunday                   154 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+Other                    54 hrs 11 mins      █████████████████████░░░░   84.61 % 
+Python                   4 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Dart                     4 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+JavaScript               23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+
+🔥 Editors: 
+Chrome                   60 hrs 26 mins      ████████████████████████░   94.38 % 
+PyCharm                  3 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Android Studio           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+
+💻 Operating System: 
+Windows                  33 hrs 28 mins      █████████████░░░░░░░░░░░░   52.27 % 
+Mac                      30 hrs 33 mins      ████████████░░░░░░░░░░░░░   47.73 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -32,6 +77,6 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 02:04:18 UTC
+ Last Updated on 26/07/2026 02:09:04 UTC
 <!--END_SECTION:waka-->
 
