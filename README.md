@@ -5,10 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waslost0" alt="waslost0" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C510%20hrs%2046%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2018%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.58%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -23,50 +19,6 @@
  > 
 > 🔑 29 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-🌆 Daytime                377 commits         ██████████░░░░░░░░░░░░░░░   39.11 % 
-🌃 Evening                402 commits         ██████████░░░░░░░░░░░░░░░   41.70 % 
-🌙 Night                  66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Tuesday                  202 commits         █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
-Wednesday                133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Thursday                 108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Friday                   125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Saturday                 119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Sunday                   154 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-Other                    52 hrs 12 mins      █████████████████████░░░░   85.63 % 
-Dart                     8 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-
-🔥 Editors: 
-Chrome                   60 hrs 57 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  31 hrs 10 mins      █████████████░░░░░░░░░░░░   51.14 % 
-Mac                      29 hrs 47 mins      ████████████░░░░░░░░░░░░░   48.86 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -80,6 +32,6 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 01:58:37 UTC
+ Last Updated on 07/08/2026 02:21:45 UTC
 <!--END_SECTION:waka-->
 
