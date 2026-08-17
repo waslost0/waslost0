@@ -50,16 +50,16 @@ Sunday                   154 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Other                    45 hrs 24 mins      ██████████████████████░░░   86.08 % 
-Dart                     6 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Python                   1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Other                    47 hrs 48 mins      ██████████████████████░░░   86.72 % 
+Dart                     6 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Python                   1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 🔥 Editors: 
-Chrome                   52 hrs 45 mins      █████████████████████████   100.00 % 
+Chrome                   55 hrs 7 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  26 hrs 51 mins      █████████████░░░░░░░░░░░░   50.93 % 
-Mac                      25 hrs 53 mins      ████████████░░░░░░░░░░░░░   49.07 % 
+Windows                  29 hrs 14 mins      █████████████░░░░░░░░░░░░   53.04 % 
+Mac                      25 hrs 53 mins      ████████████░░░░░░░░░░░░░   46.96 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -81,6 +81,6 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 00:55:40 UTC
+ Last Updated on 17/08/2026 00:53:55 UTC
 <!--END_SECTION:waka-->
 
