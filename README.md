@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waslost0" alt="waslost0" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C575%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C575%20hrs%2040%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2018%20mins-blue?style=flat)
 
@@ -50,15 +50,15 @@ Sunday                   154 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Other                    26 hrs 55 mins      ████████████████████░░░░░   78.17 % 
-PHP                      7 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+Other                    26 hrs 56 mins      █████████████████████░░░░   84.80 % 
+PHP                      4 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
 
 🔥 Editors: 
-Chrome                   34 hrs 26 mins      █████████████████████████   100.00 % 
+Chrome                   31 hrs 46 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      32 hrs 24 mins      ████████████████████████░   94.11 % 
-Windows                  2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Mac                      31 hrs 9 mins       █████████████████████████   98.04 % 
+Windows                  37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -80,6 +80,6 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 02:50:19 UTC
+ Last Updated on 24/09/2026 02:40:18 UTC
 <!--END_SECTION:waka-->
 
