@@ -5,42 +5,38 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waslost0" alt="waslost0" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C622%20hrs%2058%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2018%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.58%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 274.5 kB Used in GitHub's Storage 
+> 📦 308.3 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2026
+> 🏆 15 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 66 Public Repositories 
+> 📜 67 Public Repositories 
  > 
 > 🔑 29 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-🌆 Daytime                377 commits         ██████████░░░░░░░░░░░░░░░   39.11 % 
-🌃 Evening                402 commits         ██████████░░░░░░░░░░░░░░░   41.70 % 
-🌙 Night                  66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+🌞 Morning                119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+🌆 Daytime                377 commits         ██████████░░░░░░░░░░░░░░░   38.67 % 
+🌃 Evening                413 commits         ███████████░░░░░░░░░░░░░░   42.36 % 
+🌙 Night                  66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Tuesday                  202 commits         █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
-Wednesday                133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Thursday                 108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Friday                   125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Saturday                 119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Sunday                   154 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Monday                   123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Tuesday                  202 commits         █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
+Wednesday                133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Thursday                 108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Friday                   125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Saturday                 130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Sunday                   154 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
 ```
 
 
@@ -50,14 +46,15 @@ Sunday                   154 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Other                    15 hrs 8 mins       █████████████████░░░░░░░░   67.70 % 
-PHP                      7 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.30 % 
+Other                    23 hrs 24 mins      █████████████████████░░░░   82.46 % 
+PHP                      4 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
 
 🔥 Editors: 
-Chrome                   22 hrs 22 mins      █████████████████████████   100.00 % 
+Chrome                   28 hrs 23 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      22 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 19 mins      ████████████████████████░   96.27 % 
+Windows                  1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -79,6 +76,6 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/11/2026 03:46:49 UTC
+ Last Updated on 07/11/2026 17:48:16 UTC
 <!--END_SECTION:waka-->
 
