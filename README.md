@@ -13,9 +13,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 308.3 kB Used in GitHub's Storage 
+> 📦 570.7 kB Used in GitHub's Storage 
  > 
-> 🏆 179 Contributions in the Year 2026
+> 🏆 183 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -50,15 +50,15 @@ Sunday                   394 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Other                    23 hrs 24 mins      █████████████████████░░░░   82.46 % 
-PHP                      4 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Other                    23 hrs 37 mins      ████████████████████░░░░░   81.76 % 
+PHP                      5 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
 
 🔥 Editors: 
-Chrome                   28 hrs 23 mins      █████████████████████████   100.00 % 
+Chrome                   28 hrs 53 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      27 hrs 19 mins      ████████████████████████░   96.27 % 
-Windows                  1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Mac                      28 hrs 46 mins      █████████████████████████   99.57 % 
+Windows                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -70,16 +70,16 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Dart                     30 repos            █████████░░░░░░░░░░░░░░░░   34.88 % 
-C++                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Kotlin                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-PHP                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Dart                     31 repos            █████████░░░░░░░░░░░░░░░░   35.63 % 
+C++                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Kotlin                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+PHP                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 ```
 
 
 
 
- Last Updated on 07/11/2026 18:39:54 UTC
+ Last Updated on 08/11/2026 03:53:14 UTC
 <!--END_SECTION:waka-->
 
