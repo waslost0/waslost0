@@ -5,17 +5,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waslost0" alt="waslost0" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C638%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C648%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2035%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.04%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.42%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 846.9 kB Used in GitHub's Storage 
+> 📦 848.8 kB Used in GitHub's Storage 
  > 
-> 🏆 312 Contributions in the Year 2026
+> 🏆 314 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -26,21 +26,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                15307 commits       ███████████░░░░░░░░░░░░░░   45.61 % 
-🌆 Daytime                14935 commits       ███████████░░░░░░░░░░░░░░   44.50 % 
-🌃 Evening                3232 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-🌙 Night                  86 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+🌞 Morning                15900 commits       ███████████░░░░░░░░░░░░░░   45.66 % 
+🌆 Daytime                15513 commits       ███████████░░░░░░░░░░░░░░   44.55 % 
+🌃 Evening                3322 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+🌙 Night                  86 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   6835 commits        █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-Tuesday                  7218 commits        █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-Wednesday                4859 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Thursday                 6339 commits        █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-Friday                   6868 commits        █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
-Saturday                 804 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-Sunday                   637 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Monday                   7084 commits        █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+Tuesday                  7438 commits        █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+Wednesday                5149 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Thursday                 6533 commits        █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Friday                   7138 commits        █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+Saturday                 827 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Sunday                   652 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 ```
 
 
@@ -50,46 +50,46 @@ Sunday                   637 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Other                    18 hrs 14 mins      ██████████░░░░░░░░░░░░░░░   41.33 % 
-Dart                     13 hrs 8 mins       ███████░░░░░░░░░░░░░░░░░░   29.79 % 
-YAML                     4 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-PHP                      2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-Markdown                 2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Dart                     16 hrs 13 mins      █████████░░░░░░░░░░░░░░░░   36.36 % 
+Other                    13 hrs 37 mins      ████████░░░░░░░░░░░░░░░░░   30.54 % 
+YAML                     5 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Markdown                 2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Bash                     1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 🔥 Editors: 
-Android Studio           20 hrs 6 mins       ███████████░░░░░░░░░░░░░░   45.58 % 
-Chrome                   15 hrs 44 mins      █████████░░░░░░░░░░░░░░░░   35.68 % 
-Opencode Cli             4 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Rocket.Chat              3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-Xcode                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Android Studio           20 hrs 16 mins      ███████████░░░░░░░░░░░░░░   45.46 % 
+Chrome                   13 hrs 27 mins      ████████░░░░░░░░░░░░░░░░░   30.17 % 
+Opencode Cli             6 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Rocket.Chat              4 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Xcode                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 💻 Operating System: 
-Mac                      44 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      44 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 4 mins (56.81%)
+⏱ AI Coding Time: 27 hrs 43 mins (62.13%)
 
-✍️ 4,819 lines written by AI, 211 lines written by hand (95.81% AI-written)
+✍️ 7,165 lines written by AI, 273 lines written by hand (96.33% AI-written)
 
-🔤 11,016,944 Input Tokens, 2,189,498 Output Tokens
+🔤 14,688,521 Input Tokens, 2,573,945 Output Tokens
 
-💵 $978.16 Estimated AI Cost This Week
+💵 $1239.52 Estimated AI Cost This Week
 
-🧠 69 AI Sessions, 476 AI Prompts
+🧠 77 AI Sessions, 568 AI Prompts
 
-DeepSeek                 5,321 lines         █████████████████████████   98.81 % 
-GLM                      64 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+DeepSeek                 7,009 lines         ██████████████████████░░░   89.00 % 
+GLM                      866 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
 Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.81% of written lines came from AI
-📝 Concise Prompter — average 327 characters per prompt
+🤖 AI-Driven — 96.33% of written lines came from AI
+📄 Detailed Prompter — average 642 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 8.47% of changed lines were hand-edited
+🚀 High AI Trust — 7.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -105,6 +105,6 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2026 05:27:26 UTC
+ Last Updated on 13/11/2026 04:44:52 UTC
 <!--END_SECTION:waka-->
 
