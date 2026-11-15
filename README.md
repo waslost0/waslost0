@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waslost0" alt="waslost0" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C655%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C661%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-28%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2040%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.27%20million%20lines%20of%20code-blue?style=flat)
 
@@ -50,45 +50,45 @@ Sunday                   647 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Dart                     18 hrs 39 mins      ███████████░░░░░░░░░░░░░░   43.31 % 
-Other                    8 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-YAML                     5 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Markdown                 2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-Bash                     1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Dart                     19 hrs 23 mins      ████████████░░░░░░░░░░░░░   47.64 % 
+Other                    6 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+YAML                     5 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Markdown                 1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Bash                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 🔥 Editors: 
-Android Studio           20 hrs 56 mins      ████████████░░░░░░░░░░░░░   48.62 % 
-Opencode Cli             8 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
-Chrome                   7 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-Rocket.Chat              5 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Xcode                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Android Studio           19 hrs 41 mins      ████████████░░░░░░░░░░░░░   48.38 % 
+Opencode Cli             9 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+Chrome                   5 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Rocket.Chat              5 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Xcode                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 💻 Operating System: 
-Mac                      43 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      40 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 hrs 2 mins (72.05%)
+⏱ AI Coding Time: 30 hrs 30 mins (74.93%)
 
-✍️ 7,897 lines written by AI, 297 lines written by hand (96.38% AI-written)
+✍️ 7,458 lines written by AI, 301 lines written by hand (96.12% AI-written)
 
-🔤 17,261,697 Input Tokens, 2,984,945 Output Tokens
+🔤 17,330,824 Input Tokens, 2,985,408 Output Tokens
 
-💵 $1387.65 Estimated AI Cost This Week
+💵 $1403.39 Estimated AI Cost This Week
 
-🧠 78 AI Sessions, 638 AI Prompts
+🧠 80 AI Sessions, 622 AI Prompts
 
-DeepSeek                 7,827 lines         ███████████████████████░░   90.32 % 
-GLM                      839 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+DeepSeek                 7,394 lines         ███████████████████████░░   90.07 % 
+GLM                      815 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
 Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.38% of written lines came from AI
-📄 Detailed Prompter — average 621 characters per prompt
+🤖 AI-Driven — 96.12% of written lines came from AI
+📄 Detailed Prompter — average 635 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 43.12% of changed lines were hand-edited
+🚀 High AI Trust — 44.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -104,6 +104,6 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2026 04:39:27 UTC
+ Last Updated on 15/11/2026 04:26:43 UTC
 <!--END_SECTION:waka-->
 
