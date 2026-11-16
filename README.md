@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waslost0" alt="waslost0" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C661%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C662%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2049%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.27%20million%20lines%20of%20code-blue?style=flat)
 
@@ -50,45 +50,44 @@ Sunday                   647 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Dart                     19 hrs 23 mins      ████████████░░░░░░░░░░░░░   47.64 % 
-Other                    6 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-YAML                     5 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Markdown                 1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-Bash                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Dart                     19 hrs 23 mins      ████████████░░░░░░░░░░░░░   48.34 % 
+Other                    6 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+YAML                     5 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Markdown                 1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Text                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 🔥 Editors: 
-Android Studio           19 hrs 41 mins      ████████████░░░░░░░░░░░░░   48.38 % 
-Opencode Cli             9 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-Chrome                   5 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Rocket.Chat              5 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Android Studio           19 hrs 11 mins      ████████████░░░░░░░░░░░░░   47.83 % 
+Opencode Cli             9 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+Chrome                   5 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Rocket.Chat              5 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
 Xcode                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 💻 Operating System: 
-Mac                      40 hrs 42 mins      █████████████████████████   100.00 % 
+Mac                      40 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 30 mins (74.93%)
+⏱ AI Coding Time: 29 hrs 57 mins (74.68%)
 
-✍️ 7,458 lines written by AI, 301 lines written by hand (96.12% AI-written)
+✍️ 7,456 lines written by AI, 301 lines written by hand (96.12% AI-written)
 
-🔤 17,330,824 Input Tokens, 2,985,408 Output Tokens
+🔤 17,146,016 Input Tokens, 2,970,894 Output Tokens
 
-💵 $1403.39 Estimated AI Cost This Week
+💵 $1393.49 Estimated AI Cost This Week
 
-🧠 80 AI Sessions, 622 AI Prompts
+🧠 74 AI Sessions, 611 AI Prompts
 
-DeepSeek                 7,394 lines         ███████████████████████░░   90.07 % 
-GLM                      815 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+DeepSeek                 7,391 lines         ███████████████████████░░   90.09 % 
+GLM                      813 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 96.12% of written lines came from AI
-📄 Detailed Prompter — average 635 characters per prompt
+📄 Detailed Prompter — average 645 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 44.49% of changed lines were hand-edited
+🚀 High AI Trust — 44.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -104,6 +103,6 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2026 04:26:43 UTC
+ Last Updated on 16/11/2026 04:24:09 UTC
 <!--END_SECTION:waka-->
 
