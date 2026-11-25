@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waslost0" alt="waslost0" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C699%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C708%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-69%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-77%20hrs%2026%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.41%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.43%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -26,21 +26,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                15838 commits       ███████████░░░░░░░░░░░░░░   45.56 % 
-🌆 Daytime                15530 commits       ███████████░░░░░░░░░░░░░░   44.67 % 
-🌃 Evening                3311 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+🌞 Morning                15910 commits       ███████████░░░░░░░░░░░░░░   45.57 % 
+🌆 Daytime                15603 commits       ███████████░░░░░░░░░░░░░░   44.69 % 
+🌃 Evening                3311 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
 🌙 Night                  86 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   7065 commits        █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-Tuesday                  7429 commits        █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
-Wednesday                5130 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Thursday                 6518 commits        █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Friday                   7138 commits        █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-Saturday                 838 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-Sunday                   647 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Monday                   7090 commits        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+Tuesday                  7464 commits        █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+Wednesday                5190 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Thursday                 6518 commits        █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+Friday                   7163 commits        █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+Saturday                 838 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Sunday                   647 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 
 
@@ -50,44 +50,44 @@ Sunday                   647 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Dart                     19 hrs 44 mins      ██████████░░░░░░░░░░░░░░░   41.96 % 
-Other                    7 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Markdown                 5 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-YAML                     3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-Swift                    2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Dart                     21 hrs 25 mins      ███████████░░░░░░░░░░░░░░   45.68 % 
+Other                    7 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Markdown                 4 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+YAML                     3 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Swift                    2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 
 🔥 Editors: 
-Opencode Cli             15 hrs 58 mins      ████████░░░░░░░░░░░░░░░░░   33.96 % 
-Android Studio           15 hrs 23 mins      ████████░░░░░░░░░░░░░░░░░   32.69 % 
-Chrome                   8 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Rocket.Chat              6 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Xcode                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Opencode Cli             17 hrs 41 mins      █████████░░░░░░░░░░░░░░░░   37.73 % 
+Android Studio           15 hrs 19 mins      ████████░░░░░░░░░░░░░░░░░   32.68 % 
+Chrome                   8 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Rocket.Chat              5 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Xcode                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 💻 Operating System: 
-Mac                      47 hrs 3 mins       █████████████████████████   100.00 % 
+Mac                      46 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 hrs 2 mins (74.46%)
+⏱ AI Coding Time: 38 hrs 9 mins (81.36%)
 
-✍️ 21,747 lines written by AI, 982 lines written by hand (95.68% AI-written)
+✍️ 20,969 lines written by AI, 573 lines written by hand (97.34% AI-written)
 
-🔤 25,456,542 Input Tokens, 4,662,171 Output Tokens
+🔤 27,431,416 Input Tokens, 5,469,578 Output Tokens
 
-💵 $3123.86 Estimated AI Cost This Week
+💵 $3668.45 Estimated AI Cost This Week
 
-🧠 78 AI Sessions, 709 AI Prompts
+🧠 68 AI Sessions, 735 AI Prompts
 
-DeepSeek                 20,653 lines        ███████████████████████░░   90.98 % 
-GLM                      2,048 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+DeepSeek                 19,770 lines        ███████████████████████░░   90.61 % 
+GLM                      2,048 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.68% of written lines came from AI
-📝 Concise Prompter — average 372 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🔍 Hands-On Reviewer — 91.34% of changed lines were hand-edited
+🤖 AI-Driven — 97.34% of written lines came from AI
+📄 Detailed Prompter — average 660 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🔍 Hands-On Reviewer — 68.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -103,6 +103,6 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/11/2026 08:02:58 UTC
+ Last Updated on 25/11/2026 06:37:31 UTC
 <!--END_SECTION:waka-->
 
